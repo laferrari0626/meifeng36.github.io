@@ -10,6 +10,10 @@ body {
     line-height: 20px;
 }
 
+header {
+    background: url(/images/myHeader1.png) repeat-x;
+}
+
 #myHeader {
 	width: 1015px;
 	height: 120px;
@@ -33,7 +37,7 @@ a.sitetitle {
     right: 0;
     width: 750px;
     height: 60px;
-    background: rgba(14, 160, 227,1)
+    //background: rgba(14, 160, 227,1)
 }
 
 .myMenu ul {
