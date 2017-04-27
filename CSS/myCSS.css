@@ -108,3 +108,9 @@ footer {
     margin: 0 auto;
     padding: 40px 10px;
 }
+
+.col_4 {
+    width: 180px;
+    float: left;
+    margin: 0 30px;
+}
