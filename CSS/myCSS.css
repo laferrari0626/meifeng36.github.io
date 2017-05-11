@@ -11,9 +11,8 @@ body {
 }
 
 header {
-    background:
-	    url(/images/myHeaderBG.png)
-	    repeat-x;
+        background-image: url("images/myHeaderBG.png");
+        background-repeat: repeat-x;
 }
 
 #myHeader {
