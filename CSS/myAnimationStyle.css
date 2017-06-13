@@ -26,7 +26,7 @@ footer {
     font-size: 20px;
     font-weight: bolder;
     padding: 10px;
-    // float: left;
+    float: left;
     margin: 20px 0px;
     border-radius: 8px;
     position: relative;
@@ -36,8 +36,8 @@ footer {
 @keyframes myAnimateDiv{
     0% {transform: rotate(0deg);left:0px;}
    25% {transform: rotate(20deg);left:100px;}
-   50% {transform: rotate(0deg);left:800px;}
-   55% {transform: rotate(0deg);left:800px;}
-   70% {transform: rotate(0deg);left:800px;background:#cc1ec6;}
+   50% {transform: rotate(0deg);float:right;right:0px;}
+   55% {transform: rotate(0deg);float:right;right:0px;}
+   70% {transform: rotate(0deg);float:right;right:0px;background:#cc1ec6;}
   100% {transform: rotate(-360deg);left:0px;}
 }
