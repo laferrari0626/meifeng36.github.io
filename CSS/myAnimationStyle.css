@@ -30,7 +30,7 @@ footer {
     margin: 20px 0px;
     border-radius: 8px;
     position: relative;
-    animation: myAnimateDiv 5s inifinite;
+    animation: myAnimateDiv 5s 2;
 }
 
 @keyframes myAnimateDiv{
