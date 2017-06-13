@@ -22,10 +22,11 @@ body {
 		no-repeat;
 }
 
-a.sitetitle {
-    display: block;
+.sitetitle {
+    position: absolute;
+	bottom: 0px;
     float: left;
-    margin: 45px 20px 0;
+    margin: 45px 20px 0px 20px;
     width: 240px;
     height: 60px;
     background: url(/images/ohMei_logo_shadow.png) no-repeat;
